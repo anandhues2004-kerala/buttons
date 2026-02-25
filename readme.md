@@ -34,8 +34,11 @@ CDN Links Used:
 
 PREVIEW
 
-![img](./image.png)
 [live]( https://anandhues2004-kerala.github.io/buttons/)
+
+
+![img](./image.png)
+
 
 ---
 
